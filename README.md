@@ -4,6 +4,12 @@
 
 This Python script is designed to automate the process of downloading PDF files from a specified URL and extracting their metadata.  It's particularly useful for gathering information from collections of PDF documents, such as those found in online archives or repositories.
 
+## *Problem  :
+https://www.upwork.com/jobs/~021875619488956544643
+
+Job Description:
+We are seeking a Data Scraping Specialist to assist in collecting PDF files from a specified website. The ideal candidate will have experience in web scraping, data extraction, and working with structured and semi-structured data. This is a task-based project requiring efficiency, accuracy, and adherence to deadlines.
+
 ### Key Features
 * **PDF Downloading:** Downloads PDF files from a given URL.
 * **Metadata Extraction:** Extracts metadata from downloaded PDFs using the `PyPDF2` library.
